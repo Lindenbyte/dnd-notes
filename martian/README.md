@@ -24,7 +24,7 @@
 
 ## Personal Aspirations: (**Adar Dens'**)
 Short term aspirations
-- [ ] Get Ellisar away from a dangerous situation unharmed (Combat)
+- [x] Get Ellisar away from a dangerous situation unharmed (Combat)
 - [ ] Get a better bow
 - [ ] Fabricate/acquire blackmail material on local nobles
 
