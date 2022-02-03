@@ -1,8 +1,11 @@
 # Martian Campaign
 
+This is just a temp file I write in during session.
+Will be published inside a file for "S(N).md" ie S1 for Session 1 etc.
+
 ## Locations:
-* Greenhill
-* 
+- [ ] Greenhill
+- [ ] Copper
 
 ## General Notes:
 * Bemvir and Ellisar looking for rumors.
@@ -20,14 +23,21 @@
 5. We sneak around the dam trying to avoid the beavers
 6. Avital got shot in the back, 2x hobgoblin, 4x goblin
 7. Combat with the hob and goblins by the dam
-8. 
+8. We killed the enemies but one hobgoblin who dashed away and would never be seen again. (Hopefully)
+9. Bemvir licked mushrooms and rolled a d100 (39), WTF
+10. Bemvir regained 19hp from the mushroom.
+11. I licked one too, feeling gooooooood.
+12. SLEEP in the mushroom pit
+13. Wyvern (Thought to be) flied NE of the mushroom pit during the night
+14. Me and Bemvir shrunk from the mushrooms, going on the height of halflings. (Or everyone else grew and we where not effected...)
+15. Avital threw spear at door on tower, door open
 
 ## Personal Aspirations: (**Adar Dens'**)
-Short term aspirations
+### Short term aspirations
 - [x] Get Ellisar away from a dangerous situation unharmed (Combat)
 - [ ] Get a better bow
 - [ ] Fabricate/acquire blackmail material on local nobles
 
-Long term aspirations
+### Long term aspirations
 - [ ] Use said blackmail material for personal gain or to benefit the party
 - [ ] Get a infamous title/nickname in the region
